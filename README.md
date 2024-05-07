@@ -2,11 +2,6 @@
 
 Cross-Problem Learning for Solving Vehicle Routing Problems
 
-## Paper
-
-
-```
-``` 
 
 ## Dependencies
 

@@ -1,4 +1,18 @@
 # Cross-Problem Learning for Solving Vehicle Routing Problems
+This repo implements our paper:
+
+Zhuoyi Lin, Yaoxin Wu, Bangjian Zhou, Zhiguang Cao, Wen Song, Yingqian Zhang, and Senthilnath Jayavelu, “Cross-Problem Learning for Solving Vehicle Routing Problems”, in International Joint Conferences on Artificial Intelligence (IJCAI), 2024.
+
+Please cite our paper if the code is useful for your project.
+'''
+@inproceedings{
+    lin2024cross,
+    title={Cross-Problem Learning for Solving Vehicle Routing Problems},
+    author={Zhuoyi Lin, Yaoxin Wu, Bangjian Zhou, Zhiguang Cao, Wen Song, Yingqian Zhang, and Senthilnath Jayavelu},
+    booktitle = {International Joint Conferences on Artificial Intelligence},
+    year={2024}
+}
+'''
 
 ## Dependencies
 

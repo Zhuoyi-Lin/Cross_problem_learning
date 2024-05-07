@@ -1,7 +1,4 @@
-# Paper Name 
-
-Cross-Problem Learning for Solving Vehicle Routing Problems
-
+# Cross-Problem Learning for Solving Vehicle Routing Problems
 
 ## Dependencies
 

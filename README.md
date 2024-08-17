@@ -2,7 +2,7 @@
 This repo implements our paper:
 
 Zhuoyi Lin, Yaoxin Wu, Bangjian Zhou, Zhiguang Cao, Wen Song, Yingqian Zhang, and Senthilnath Jayavelu, “Cross-Problem Learning for Solving Vehicle Routing Problems”, in International Joint Conferences on Artificial Intelligence (IJCAI), 2024.
-![Uploading Screenshot 2024-08-17 at 11.48.00 AM.png…]()
+<img width="754" alt="Screenshot 2024-08-17 at 11 48 00 AM" src="https://github.com/user-attachments/assets/d10e5de1-231e-4048-b736-8cdcb651c608">
 
 
 Please cite our paper if the code is useful for your project.
